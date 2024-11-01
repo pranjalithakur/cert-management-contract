@@ -7,7 +7,7 @@ seeds = false
 skip-lint = false
 
 [programs.devnet]
-solana_nft_anchor_hackernoon = "8aQPAHMmArxnr6botHZz3YXFbSRf2se2PAuDwPtsDtqp"
+solana_nft_anchor_hackernoon = "ByoQ163GgNp4DHnaY1cvj1qB2zxyGcLZ5DHECz35NMHN"
 
 [registry]
 url = "https://api.apr.dev"

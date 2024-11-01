@@ -16,7 +16,7 @@ use mpl_token_metadata::{
     types::DataV2
 };
 
-declare_id!("8aQPAHMmArxnr6botHZz3YXFbSRf2se2PAuDwPtsDtqp");
+declare_id!("ByoQ163GgNp4DHnaY1cvj1qB2zxyGcLZ5DHECz35NMHN");
 
 #[program]
 pub mod solana_nft_anchor_hackernoon {
