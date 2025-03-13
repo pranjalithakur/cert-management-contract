@@ -90,7 +90,7 @@ pub struct InitNFT<'info> {
     pub signer: AccountInfo<'info>,
     #[account(
         init,
-        payer = signer,
+        // payer = signer,
         mint::decimals = 0,
         mint::authority = signer.key(),
         mint::freeze_authority = signer.key(),
