@@ -122,3 +122,6 @@ pub struct InitNFT<'info> {
     pub system_program: Program<'info, System>, // bew
     pub rent: Sysvar<'info, Rent> // new
 }
+
+
+// commenting for test
